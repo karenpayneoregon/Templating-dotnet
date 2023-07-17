@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Karen Payne",
+    "classifications": [
+        "Common",
+        "Console"
+    ],
+    "identity": "SerilogConsole",
+    "name": "Serilog console from Karen",
+    "shortName": "SerilogConsoleproj",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "SerilogConsole",
+    "preferNameDirectory": "true",
+    "defaultName": "ConsoleApp",
+    "description": "Creates a Serilog console application",  
+    "primaryOutputs": [
+        {
+            "path": "SerilogConsole.csproj"
+        },
+        {
+            "path": "readme.md"
+        }
+    ],
+    "postActions": [
+        {
+            "description": "Opens README.md in the editor",
+            "manualInstructions": [],
+            "actionId": "84C0DA21-51C8-4541-9940-6CA19AF04EE6",
+            "args": {
+                "files": "1"
+            },
+            "continueOnError": true
+        }
+    ]
+}
