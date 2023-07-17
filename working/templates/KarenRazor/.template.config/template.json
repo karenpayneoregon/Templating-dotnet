@@ -1,0 +1,16 @@
+{
+    "author": "Karen Payne",
+    "classifications": [
+        "Web",
+        "Razor"
+    ],
+    "identity": "KarenRazor",
+    "name": "Razor from Karen",
+    "shortName": "karenrazorproj",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "KarenRazor ",
+    "preferNameDirectory": "true"
+}
