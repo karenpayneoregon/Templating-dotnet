@@ -1,4 +1,5 @@
 {
+    
     "author": "Karen Payne",
     "classifications": [
         "Web",
@@ -11,6 +12,6 @@
         "language": "C#",
         "type": "project"
     },
-    "sourceName": "KarenRazor ",
+    "sourceName": "KarenRazor",
     "preferNameDirectory": "true"
 }
