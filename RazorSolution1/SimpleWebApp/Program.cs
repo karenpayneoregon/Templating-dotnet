@@ -1,6 +1,6 @@
-using simplewebapp.Classes;
+using SimpleWebApp.Classes;
 
-namespace simplewebapp;
+namespace SimpleWebApp;
 
 public class Program
 {

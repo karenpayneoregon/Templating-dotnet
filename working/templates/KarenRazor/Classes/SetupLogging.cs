@@ -2,7 +2,7 @@
 using Serilog.Events;
 using SeriLogThemesLibrary;
 
-namespace karenrazor.Classes;
+namespace KarenRazor.Classes;
 
 /// <summary>
 /// For setting up SeriLog to keep Program.Main clean and allows code to be easily copied to other projects.

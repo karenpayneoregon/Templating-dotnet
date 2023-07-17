@@ -1,6 +1,6 @@
-using karenrazor.Classes;
+using KarenRazor.Classes;
 
-namespace karenrazor;
+namespace KarenRazor;
 
 public class Program
 {
