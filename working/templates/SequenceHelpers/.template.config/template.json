@@ -5,7 +5,7 @@
         "Common",
         "Code"
     ],
-    "identity": "NextValueClass",
+    "identity": "KarenTemplate.StringHelpers",
     "name": "NextValue from Karen",
     "shortName": "shnextvalue",
     "tags": {

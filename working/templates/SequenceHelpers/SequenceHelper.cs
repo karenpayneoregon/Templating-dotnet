@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace PayneLanguageExtensions.HelperClasses;
+namespace Common.HelperClasses;
 
 public class SequenceHelper
 {

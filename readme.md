@@ -25,3 +25,27 @@ dotnet new uninstall .\
 ## Notes
 
 - PowerShell and batch files are to be renamed.
+
+## dotnet sln
+
+Add multiple C# projects to the root of a solution:
+
+```
+dotnet sln todo.sln add todo-app/todo-app.csproj back-end/back-end.csproj --in-root
+```
+
+Add multiple C# projects to a solution:
+
+```
+dotnet sln todo.sln add todo-app/todo-app.csproj back-end/back-end.csprojs
+```
+
+Add multiple C# projects to a solution using a globbing pattern (Windows PowerShell only):
+
+```
+dotnet sln todo.sln add (ls -r **/*.csproj)
+```
+
+## dotnet add reference
+
+[docs](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference)
